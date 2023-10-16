@@ -1,3 +1,2 @@
 # CitasApp
-Proyecto de servicios web
-### Primereo commit y principio del proyecto
+Proyecto de Servicios Web de noveno semestre de ICI.
